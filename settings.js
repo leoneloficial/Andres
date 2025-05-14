@@ -42,12 +42,12 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі-sᥙ᥆ᥙ-ᑲ᥆𝗍'
-global.wm = 'ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭ⷭ𓆪͟͞ '
+global.packname = '◆%ANDREBOTAI%◆'
+global.botname = '◆%ANDREBOTAI%◆'
+global.wm = '◆%ANDREBOTAI%◆'
 global.author = 'Made By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yυƙι-Sυσυ-Bσƚ • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.textbot = '◆%ANDREBOTAI%◆ • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
