@@ -45,10 +45,10 @@ global.yukiJadibts = true
 global.packname = '◆%ANDREBOTAI%◆'
 global.botname = '◆%ANDREBOTAI%◆'
 global.wm = '◆%ANDREBOTAI%◆'
-global.author = 'Made By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = '◆%ANDREBOTAI%◆ • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.author = 'Made By ◆%ANDRE%◆'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ◆%ANDRE%'
+global.textbot = '◆%ANDREBOTAI%◆ • Powered By ◆%ANDRE%'
+global.etiqueta = '◆%ANDRE%'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
